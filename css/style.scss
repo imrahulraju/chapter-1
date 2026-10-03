@@ -1,0 +1,37 @@
+// ============================================================
+// CHAPTER 1 — Reading Room & Study Space
+// SCSS Source File (compile with: sass css/style.scss css/style.css)
+// ============================================================
+// This is the SCSS source. The compiled style.css is production-ready.
+// Run: npx sass css/style.scss css/style.css --style=compressed --watch
+
+// ── TOKENS ──────────────────────────────────────────────────
+$navy-900: #111A2E;
+$navy-800: #17243D;
+$navy-700: #1F2D46;
+$navy-600: #28395A;
+$ivory:    #FAF8F3;
+$ivory-50: #F4F1E9;
+$charcoal: #151515;
+$text-mid: #3A3A3A;
+$text-muted: #7A7A7A;
+$gold:     #B99452;
+$gold-lt:  #D4B07A;
+$r-sm: 8px;   $r-md: 12px;  $r-lg: 16px;  $r-xl: 24px;
+$ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+$ease-std: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+// ── FORWARD TO COMPILED CSS ──────────────────────────────────
+// The full CSS is in style.css (compiled output).
+// Use this SCSS file for modular customization and future expansion.
+// Import partials here:
+// @use 'partials/tokens';
+// @use 'partials/base';
+// @use 'partials/components/nav';
+// @use 'partials/components/hero';
+// etc.
+
+// ── CUSTOM OVERRIDES (add your own here) ────────────────────
+// :root {
+//   --navy-900: #0D1525; // Darker option
+// }

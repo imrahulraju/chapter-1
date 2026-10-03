@@ -1,0 +1,101 @@
+{
+    "tabs": [
+        {
+            "id": "study-hall",
+            "name": "Study Hall",
+            "created": 1700000000
+        },
+        {
+            "id": "seating",
+            "name": "Seating",
+            "created": 1700000001
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "created": 1700000002
+        },
+        {
+            "id": "test",
+            "name": "test",
+            "created": 1789540578
+        },
+        {
+            "id": "test-ccf4",
+            "name": "test",
+            "created": 1789575803
+        }
+    ],
+    "images": [
+        {
+            "id": "default-1",
+            "filename": "gallery-1.jpg",
+            "path": "assets/images/gallery-1.jpg",
+            "tab": "study-hall",
+            "caption": "Designed for deep focus.",
+            "alt": "Main study hall at Chapter 1",
+            "uploaded": 1700000010,
+            "is_default": true
+        },
+        {
+            "id": "default-2",
+            "filename": "gallery-2.jpg",
+            "path": "assets/images/gallery-2.jpg",
+            "tab": "seating",
+            "caption": "Comfortable spaces for longer study sessions.",
+            "alt": "Comfortable study desk at Chapter 1",
+            "uploaded": 1700000011,
+            "is_default": true
+        },
+        {
+            "id": "default-3",
+            "filename": "gallery-3.jpg",
+            "path": "assets/images/gallery-3.jpg",
+            "tab": "test",
+            "caption": "Calm. Quiet. Productive.",
+            "alt": "Quiet reading corner at Chapter 1",
+            "uploaded": 1700000012,
+            "is_default": true
+        },
+        {
+            "id": "default-4",
+            "filename": "gallery-4.jpg",
+            "path": "assets/images/gallery-4.jpg",
+            "tab": "amenities",
+            "caption": "Reading area interior.",
+            "alt": "Reading area interior at Chapter 1",
+            "uploaded": 1700000013,
+            "is_default": true
+        },
+        {
+            "id": "default-5",
+            "filename": "gallery-5.jpg",
+            "path": "assets/images/gallery-5.jpg",
+            "tab": "seating",
+            "caption": "Study desk with warm lighting.",
+            "alt": "Study desk with warm lighting at Chapter 1",
+            "uploaded": 1700000014,
+            "is_default": true
+        },
+        {
+            "id": "default-6",
+            "filename": "gallery-6.jpg",
+            "path": "assets/images/gallery-6.jpg",
+            "tab": "amenities",
+            "caption": "Premium seating arrangement.",
+            "alt": "Premium seating arrangement at Chapter 1",
+            "uploaded": 1700000015,
+            "is_default": true
+        },
+        {
+            "id": "img_98943786_1789575814",
+            "filename": "audience-1_98943786.jpg",
+            "path": "assets/images/gallery/audience-1_98943786.jpg",
+            "tab": "test",
+            "caption": "",
+            "alt": "Chapter 1 — Audience 1",
+            "uploaded": 1789575814,
+            "is_default": false
+        }
+    ]
+}
